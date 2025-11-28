@@ -1,7 +1,8 @@
 # 1/64 Scale RC chassis
 Universal chassis for 1/64 scale rc cars, to turn your Hot Wheels into things to annoy other residents of your home. 
 
-<img width="1578" height="1184" alt="image" src="https://github.com/user-attachments/assets/a6a436a6-b1df-4989-9d39-1364620d38ad" />
+<img width="1091" height="780" alt="image" src="https://github.com/user-attachments/assets/3ec08519-6f2f-476f-b619-7e92eb31c1e9" />
+
 
 # why does this exist 
 Every week before finals for the last 2 years I have designed another revision of an RC car. This is this semester's version, inspired by a Hot Wheels Datsun 240Z I found at the grocery store is a 1/64 scale car chassis. 
@@ -26,9 +27,11 @@ Every week before finals for the last 2 years I have designed another revision o
 6. Solder everything to the receiver like this
    <img width="1624" height="1517" alt="image" src="https://github.com/user-attachments/assets/0d1380cb-b573-4435-8de7-095976ab6d5d" />
 7. Glue the receiver on top of the servo
-   <img width="1997" height="1396" alt="image" src="https://github.com/user-attachments/assets/0ad0afce-83bf-4d66-a0f0-afd246bc448c" />
-8. Drill out the rear wheels with the size of the drive motor shaft and glue the wheels on with ca
-9. Use the original front axle cut in half to stick through the steering linkage, and ca glue on the inside. Make sure not to get glue anywhere near the wheel.
+
+   <img width="1091" height="780" alt="image" src="https://github.com/user-attachments/assets/a223bc90-4c0e-4a8d-895f-345e28e5a8d2" />
+
+9. Drill out the rear wheels with the size of the drive motor shaft and glue the wheels on with ca
+10. Use the original front axle cut in half to stick through the steering linkage, and ca glue on the inside. Make sure not to get glue anywhere near the wheel.
 
 |Item                                              |Quantity|Price |Purpose             |Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |--------------------------------------------------|--------|------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
