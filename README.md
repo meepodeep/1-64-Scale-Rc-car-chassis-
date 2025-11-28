@@ -9,18 +9,10 @@ Every week before finals for the last 2 years I have designed another revision o
 # instructions 
 # Reciver
 1. Desolder the headers if needed; however, you may not have to, depending on what you are trying to use the chassis for
-# Powertrain
-1. center your 9g sevo
-2. Disassemble the servo and remove the PCB.
-3. Solder the double-shafted motor to the pcb.
-4. Power on the servo and rotate the potentiometer so the motor stops moving.
-5. Measure the resistance between the outer pin and the center on both sides of the potentiometer.
-6. Get 2 resistors of that resistance and if not the same, average the two
-7. You need to connect one leg from each resistor together and solder the join to the middle of the three points, then solder the remaining two legs to the other points, each to a different one.
 # Chassis
 1. Resin 3d print all of the parts.
 # Assembly
-1. Glue in the motor and stick the ESC on top of the motor mount
+1. Glue in the motor
 
 <img width="1333" height="1177" alt="image" src="https://github.com/user-attachments/assets/37152052-6989-4ab7-9c5d-9f0ff5c9bce0" />
 
@@ -32,8 +24,8 @@ Every week before finals for the last 2 years I have designed another revision o
 5. Secure the steering assembly with the final part and 2 m1 screws
 <img width="1265" height="1077" alt="image" src="https://github.com/user-attachments/assets/1561aa5d-6a32-42c0-a554-508c6affe8d0" />
 6. Solder everything to the receiver like this
-   <img width="1349" height="1350" alt="image" src="https://github.com/user-attachments/assets/ab220b61-c81b-4a22-9498-ba4f5361c6f2" />
-7. Glue the receiver on top of the serv,o making sure there is enough room for the battery to fit underneath
+   <img width="2081" height="1764" alt="image" src="https://github.com/user-attachments/assets/5160eed5-a4ac-4369-93d2-94fa9eae672c" />
+7. Glue the receiver on top of the servo making sure there is enough room for the battery to fit underneath
    <img width="1997" height="1396" alt="image" src="https://github.com/user-attachments/assets/0ad0afce-83bf-4d66-a0f0-afd246bc448c" />
 8. Drill out the rear wheels with the size of the drive motor shaft and glue the wheels on with ca
 9. Use the original front axle cut in half to stick through the steering linkage, and ca glue on the inside. Make sure not to get glue anywhere near the wheel.
