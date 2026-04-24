@@ -33,6 +33,8 @@ Every week before finals for the last 2 years I have designed another revision o
 <img width="1265" height="1077" alt="image" src="https://github.com/user-attachments/assets/1561aa5d-6a32-42c0-a554-508c6affe8d0" />
 6. Solder everything to the receiver like this
    <img width="1624" height="1517" alt="image" src="https://github.com/user-attachments/assets/0d1380cb-b573-4435-8de7-095976ab6d5d" />
+   <img width="801" height="802" alt="image" src="https://github.com/user-attachments/assets/6dfa3fc6-5497-41a1-bcb0-28528e9385a4" />
+
 7. Glue the receiver on top of the servo
 
    <img width="1091" height="780" alt="image" src="https://github.com/user-attachments/assets/a223bc90-4c0e-4a8d-895f-345e28e5a8d2" />
