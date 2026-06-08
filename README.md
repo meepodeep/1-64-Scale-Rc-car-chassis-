@@ -1,6 +1,9 @@
 # 1/64 Scale RC chassis
 Universal chassis for 1/64 scale rc cars, to turn your Hot Wheels into things to annoy other residents of your home. 
 
+
+<img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/5a92dbc1-dc7e-4c77-a0d8-ab722bcf21ee" />
+
 <img width="686" height="531" alt="image" src="https://github.com/user-attachments/assets/0ab40f64-2573-43b6-8956-732e45d877d6" />
 
 <img width="1005" height="678" alt="image" src="https://github.com/user-attachments/assets/26b26c5e-34f2-4128-99c1-34714139406c" />
